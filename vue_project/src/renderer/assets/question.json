@@ -1,0 +1,22 @@
+[
+    {
+        "question_number": 1,
+        "question": "Which number should come next in the series? 1 - 1 - 2 - 3 - 5 - 8 - 13",
+        "answer": {
+            "ans_1": "8",
+            "ans_2": "13",
+            "ans_3": "21",
+            "ans_4": "16"
+        }
+    },
+    {
+        "question_number": 1,
+        "question": "Which one of the five choices makes the best comparison? PEACH is to HCAEP as 46251 is to",
+        "answer": {
+            "ans_1": "15264",
+            "ans_2": "51462",
+            "ans_3": "26451",
+            "ans_4": "25641"
+        }
+    }
+]
